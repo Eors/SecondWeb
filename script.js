@@ -29,8 +29,8 @@ let data = {                     // foto objektumok
     photo:'IMG_20170721_0704525.jpg',
     title: 'SLEEP',
     description:"Belle Epoque without COVID-19",
-    id:1
     };
+    
     let data1 = {
       photo: 'IMG_20190602_2320476.jpg',
       title: 'France',
